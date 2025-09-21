@@ -6,9 +6,9 @@
 
 ## To-do ☑️
 
-- Supprimer ou compresser les fichiers inutilisés (CSS, JS, images non visibles)
 - Éliminer les ressources bloquant le rendu (économies estimées: 860 ms)
 - Différer le chargement des scripts non critiques
+- Supprimer ou compresser les fichiers inutilisés (CSS, JS, images non visibles)
 
 ## Optional ❔
 
@@ -25,6 +25,10 @@
 - Optimiser la compression des images (gain potentiel: ~1,9 Mo)
 - Définir les attributs width/height pour toutes les images
 - Précharger l'image LCP et ajouter un loading lazy sur les autres images
+- Supprimer le css bootstrap inutilisé
+- Ajouter une balise `<title>`
+- Ajouter un attribut `alt` pour chaque image
+- Ajouter un attribut `for` sur les labels du formulaire
 
 ## Steps 📊
 

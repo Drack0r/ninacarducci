@@ -9,17 +9,17 @@ Ce document présente les actions prioritaires à entreprendre afin d'atteindre 
 ### Priorité Élevée
 
 - **Optimiser les images**
-  - Convertir toutes les images aux formats nouvelle génération (WebP/AVIF)
-  - Redimensionner les images pour qu'elles correspondent à la taille d'affichage réelle (économies: ~22 Mo)
-  - Compresser efficacement les images (économies estimées: ~1,9 Mo)
+  - Convertir toutes les images aux formats nouvelle génération (WebP/AVIF) ✅
+  - Redimensionner les images pour qu'elles correspondent à la taille d'affichage réelle (économies: ~22 Mo) ✅
+  - Compresser efficacement les images (économies estimées: ~1,9 Mo) ✅
 - **Réduire la taille totale des données (30 Mo)**
   - Supprimer ou compresser les fichiers inutilisés (CSS, JS, images non visibles)
 - **Améliorer le Largest Contentful Paint (18,3 s)**
-  - Précharger l'image LCP
+  - Précharger l'image LCP ✅
   - Éliminer les ressources bloquant le rendu (économies estimées: 860 ms)
   - Différer le chargement des scripts non critiques
 - **Stabiliser la mise en page (CLS élevé)**
-  - Définir les attributs width/height pour toutes les images
+  - Définir les attributs width/height pour toutes les images ✅
 
 ### Priorité Moyenne
 
