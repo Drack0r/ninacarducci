@@ -6,6 +6,11 @@ body {
   font-family: "Inter";
   font-style: normal;
 }
+img {
+  max-width: 100%;
+  height: auto; /* conserve le ratio */
+  display: block;
+}
 .top-header {
   background-color: white;
   position: sticky;

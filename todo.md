@@ -10,7 +10,6 @@
 - Différer le chargement des scripts non critiques
 - Supprimer ou compresser les fichiers inutilisés (CSS, JS, images non visibles)
 
-- Se former et utiliser PurgeCSS
 - Charger des images opti à la taille d'écran
 - Vérifier le ratio des images et leur qualité
 - Vérifier le responsive du site
@@ -20,6 +19,8 @@
 - Implémenter des images haute résolution pour les écrans Retina/4K
 
 ## In progress 🚧
+
+- Changer la taille des images pour le format auquel elle seront affichées (css: max-width: 100%, height: auto)
 
 ## Done ✅
 
@@ -34,6 +35,7 @@
 - Ajouter une balise `<title>`
 - Ajouter un attribut `alt` pour chaque image
 - Ajouter un attribut `for` sur les labels du formulaire
+- Se former et utiliser PurgeCSS
 
 ## Steps 📊
 
