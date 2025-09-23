@@ -6,21 +6,20 @@
 
 ## To-do ☑️
 
-- Éliminer les ressources bloquant le rendu (économies estimées: 860 ms)
-- Différer le chargement des scripts non critiques
-- Supprimer ou compresser les fichiers inutilisés (CSS, JS, images non visibles)
-
-- Minifier le CSS et le JS
-
 - Vérifier la qualité des images (implémenter des images haute résolution pour les écrans Retina/4K)
 
 ## Optional ❔
+
+- Éliminer les ressources bloquant le rendu (économies estimées: 860 ms)
+- Différer le chargement des scripts non critiques
+- Supprimer ou compresser les fichiers inutilisés (CSS, JS, images non visibles)
 
 ## In progress 🚧
 
 ## Since last commit 📝
 
-- Animation slider ++
+- Minifier le CSS
+- Minifier le JS
 
 ## Done ✅
 
@@ -39,6 +38,7 @@
 - Changer la taille des images pour le format auquel elle seront affichées (css: max-width: 100%, height: auto)
 - Vérifier et corriger le respect de la sémantique des balises HTML
 - Vérifier et corriger la hierarchie des titres
+- Corriger le bug d'animation de changement d'image du slider
 
 ## Steps 📊
 
