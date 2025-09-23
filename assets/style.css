@@ -11,6 +11,17 @@ img {
   height: auto; /* conserve le ratio */
   display: block;
 }
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
 .top-header {
   background-color: white;
   position: sticky;
@@ -78,16 +89,22 @@ img {
 #about-me {
   flex: 2;
 }
-.about-me__title {
+h2.about-me__title {
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 1.2;
   margin-top: 1em;
   margin-bottom: 60px;
-  font-size: 30px;
 }
+p.about-me__introduction,
 .about-me__introduction {
+  margin-bottom: 0.5rem;
   font-family: "Spectral";
+  font-size: 1rem !important;
   font-weight: 800;
   font-style: italic;
-  width: 60%;
+  width: 60% !important;
+  line-height: 1.2;
 }
 #about-me p {
   width: 80%;
@@ -149,9 +166,13 @@ img {
   padding-block: 3em;
 }
 .quote__text {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
   font-family: Spectral;
+  font-size: 2.5rem;
   font-style: italic;
   font-weight: 300;
+  line-height: 1.2;
 }
 .quote__author {
   font-family: Spectral;

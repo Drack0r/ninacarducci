@@ -10,17 +10,18 @@
 - Différer le chargement des scripts non critiques
 - Supprimer ou compresser les fichiers inutilisés (CSS, JS, images non visibles)
 
-- Charger des images opti à la taille d'écran
-- Vérifier le ratio des images et leur qualité
-- Vérifier le responsive du site
+- Animation slider ++
+
+- Vérifier la qualité des images (implémenter des images haute résolution pour les écrans Retina/4K)
 
 ## Optional ❔
 
-- Implémenter des images haute résolution pour les écrans Retina/4K
-
 ## In progress 🚧
 
-- Changer la taille des images pour le format auquel elle seront affichées (css: max-width: 100%, height: auto)
+## Since last commit
+
+- Vérifier et corriger le respect de la sémantique des balises HTML
+- Vérifier et corriger la hierarchie des titres
 
 ## Done ✅
 
@@ -36,6 +37,7 @@
 - Ajouter un attribut `alt` pour chaque image
 - Ajouter un attribut `for` sur les labels du formulaire
 - Se former et utiliser PurgeCSS
+- Changer la taille des images pour le format auquel elle seront affichées (css: max-width: 100%, height: auto)
 
 ## Steps 📊
 
