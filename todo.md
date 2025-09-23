@@ -10,7 +10,7 @@
 - Différer le chargement des scripts non critiques
 - Supprimer ou compresser les fichiers inutilisés (CSS, JS, images non visibles)
 
-- Animation slider ++
+- Minifier le CSS et le JS
 
 - Vérifier la qualité des images (implémenter des images haute résolution pour les écrans Retina/4K)
 
@@ -18,10 +18,9 @@
 
 ## In progress 🚧
 
-## Since last commit
+## Since last commit 📝
 
-- Vérifier et corriger le respect de la sémantique des balises HTML
-- Vérifier et corriger la hierarchie des titres
+- Animation slider ++
 
 ## Done ✅
 
@@ -38,6 +37,8 @@
 - Ajouter un attribut `for` sur les labels du formulaire
 - Se former et utiliser PurgeCSS
 - Changer la taille des images pour le format auquel elle seront affichées (css: max-width: 100%, height: auto)
+- Vérifier et corriger le respect de la sémantique des balises HTML
+- Vérifier et corriger la hierarchie des titres
 
 ## Steps 📊
 
