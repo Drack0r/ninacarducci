@@ -10,6 +10,11 @@
 - Différer le chargement des scripts non critiques
 - Supprimer ou compresser les fichiers inutilisés (CSS, JS, images non visibles)
 
+- Se former et utiliser PurgeCSS
+- Charger des images opti à la taille d'écran
+- Vérifier le ratio des images et leur qualité
+- Vérifier le responsive du site
+
 ## Optional ❔
 
 - Implémenter des images haute résolution pour les écrans Retina/4K
