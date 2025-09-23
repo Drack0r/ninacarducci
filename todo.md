@@ -14,12 +14,11 @@
 - Différer le chargement des scripts non critiques
 - Supprimer ou compresser les fichiers inutilisés (CSS, JS, images non visibles)
 
+- Ajouter un attribut `title` aux images
+
 ## In progress 🚧
 
 ## Since last commit 📝
-
-- Minifier le CSS
-- Minifier le JS
 
 ## Done ✅
 
@@ -39,6 +38,9 @@
 - Vérifier et corriger le respect de la sémantique des balises HTML
 - Vérifier et corriger la hierarchie des titres
 - Corriger le bug d'animation de changement d'image du slider
+- Minifier le CSS
+- Minifier le JS
+- Vérifier l'existence de header / main / footer
 
 ## Steps 📊
 
