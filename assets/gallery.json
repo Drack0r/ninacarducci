@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "tag": "Concert",
+    "image": "./assets/images/gallery/concert/aaron-paul-XL.webp",
+    "alt": "Salle de concert avec public levant les mains sous des lumières rouges"
+  },
+  {
+    "id": 2,
+    "tag": "Entreprises",
+    "image": "./assets/images/gallery/entreprise/ali-morshedlou-XL.webp",
+    "alt": "Homme en costume cravate posant avec les bras croisés"
+  },
+  {
+    "id": 3,
+    "tag": "Entreprises",
+    "image": "./assets/images/gallery/entreprise/jason-goodman-XL.webp",
+    "alt": "Femme souriante assise dans une salle de réunion"
+  },
+  {
+    "id": 4,
+    "tag": "Mariages",
+    "image": "./assets/images/gallery/mariage/hannah-busing-XL.webp",
+    "alt": "Deux mains tendues l’une vers l’autre sur fond de ciel"
+  },
+  {
+    "id": 5,
+    "tag": "Portrait",
+    "image": "./assets/images/gallery/portrait/ade-tunji-XL.webp",
+    "alt": "Portrait d’un homme barbu plissant les yeux en plein soleil"
+  },
+  {
+    "id": 6,
+    "tag": "Mariages",
+    "image": "./assets/images/gallery/mariage/jakob-owens-XL.webp",
+    "alt": "Couple de mariés marchant main dans la main devant un palmier"
+  },
+  {
+    "id": 7,
+    "tag": "Portrait",
+    "image": "./assets/images/gallery/portrait/nino-van-prattenburg-XL.webp",
+    "alt": "Jeune femme portant des lunettes posant près d’un grillage"
+  },
+  {
+    "id": 8,
+    "tag": "Concert",
+    "image": "./assets/images/gallery/concert/austin-neill-XL.webp",
+    "alt": "Chanteur sur scène levant la main au milieu de la fumée et des projecteurs"
+  },
+  {
+    "id": 9,
+    "tag": "Entreprises",
+    "image": "./assets/images/gallery/entreprise/mateus-campos-XL.webp",
+    "alt": "Femme riant devant un ordinateur portable"
+  }
+]
