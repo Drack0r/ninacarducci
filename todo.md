@@ -6,13 +6,6 @@
 
 ## To-do ☑️
 
-- Image responsive
-- balise `picture` et `srcset`
-
-- Clean le CSS et l'optimiser
-- Re purger
-- Re minifier les fichier
-
 - Wave
 - Rich Snippet JSON
 - Capture d'écran des métas données réseaux sociaux
@@ -33,11 +26,10 @@
 
 ## Since last commit 📝
 
-- Retirer jQuery et maugallery
-- Faire un fichier gallery.js
-- Corriger la couleur de bouton actif pour la gallerie
-- Clean la structure du JS (architecture POO)
-- Implémenter des images haute résolution pour les écrans Retina/4K (2X taille affichée)
+- Rendu les images responsives pour opti les perfs
+- Utiliser les balises `picture` et `srcset`
+- Clean le CSS et l'optimiser
+- Re minifier les fichier css et js
 
 ## Done ✅
 
@@ -60,6 +52,11 @@
 - Minifier le CSS
 - Minifier le JS
 - Vérifier l'existence de header / main / footer
+- Retirer jQuery et maugallery
+- Faire un fichier gallery.js
+- Corriger la couleur de bouton actif pour la gallerie
+- Clean la structure du JS (architecture POO)
+- Implémenter des images haute résolution pour les écrans Retina/4K (2X taille affichée)
 
 ## Steps 📊
 
