@@ -6,9 +6,6 @@
 
 ## To-do ☑️
 
-- Capture d'écran des métas données réseaux sociaux
-
-- Vérifier le projet
 - Générer les rapports finaux
 - Préparer la soutenance
 
@@ -18,10 +15,11 @@
 
 ## Since last commit 📝
 
-- Valider l'HTML avec le validator w3c
-- Valider le CSS avec le validator w3c
-- Vérifer l'accessibilité avec Wave
-- Vérifier et corriget le ratio pour les facebook et twitter cards
+- Télécharger les nouveaux rapport lighthouse et gtmetrix
+- Télécharger la prévisualisation des cartes réseaux sociaux
+- Rajouter la prévisualisation des rich snippets
+- Vérifier le projet
+- Générer les audits finaux
 
 ## Done ✅
 
@@ -57,6 +55,10 @@
 - Rich Snippet JSON
 - Balises meta OG et Twitter
 - Balise meta langage et robots
+- Valider l'HTML avec le validator w3c
+- Valider le CSS avec le validator w3c
+- Vérifer l'accessibilité avec Wave
+- Vérifier et corriget le ratio pour les facebook et twitter cards
 
 ## Steps 📊
 
