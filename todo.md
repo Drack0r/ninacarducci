@@ -6,7 +6,6 @@
 
 ## To-do ☑️
 
-- Wave
 - Capture d'écran des métas données réseaux sociaux
 
 - Vérifier le projet
@@ -15,21 +14,14 @@
 
 ## Optional ❔
 
-- Éliminer les ressources bloquant le rendu (économies estimées: 860 ms)
-- Différer le chargement des scripts non critiques
-- Supprimer ou compresser les fichiers inutilisés (CSS, JS, images non visibles)
-
-- Ajouter un attribut `title` aux images
-
 ## In progress 🚧
-
-- Rich Snippet JSON
-- Balises meta OG et Twitter
-- Balise meta langage et robots
 
 ## Since last commit 📝
 
-- Supprimer les fichiers css inutilisés
+- Valider l'HTML avec le validator w3c
+- Valider le CSS avec le validator w3c
+- Vérifer l'accessibilité avec Wave
+- Vérifier et corriget le ratio pour les facebook et twitter cards
 
 ## Done ✅
 
@@ -61,6 +53,10 @@
 - Utiliser les balises `picture` et `srcset`
 - Clean le CSS et l'optimiser
 - Re minifier les fichier css et js
+- Supprimer les fichiers css inutilisés
+- Rich Snippet JSON
+- Balises meta OG et Twitter
+- Balise meta langage et robots
 
 ## Steps 📊
 
@@ -68,6 +64,6 @@
 - [x] Step 2
 - [x] Step 3
 - [x] Step 4
-- [ ] Step 5
-- [ ] Step 6
+- [x] Step 5
+- [x] Step 6
 - [ ] Step 7
