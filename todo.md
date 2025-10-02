@@ -7,7 +7,6 @@
 ## To-do ☑️
 
 - Wave
-- Rich Snippet JSON
 - Capture d'écran des métas données réseaux sociaux
 
 - Vérifier le projet
@@ -24,12 +23,13 @@
 
 ## In progress 🚧
 
+- Rich Snippet JSON
+- Balises meta OG et Twitter
+- Balise meta langage et robots
+
 ## Since last commit 📝
 
-- Rendu les images responsives pour opti les perfs
-- Utiliser les balises `picture` et `srcset`
-- Clean le CSS et l'optimiser
-- Re minifier les fichier css et js
+- Supprimer les fichiers css inutilisés
 
 ## Done ✅
 
@@ -57,6 +57,10 @@
 - Corriger la couleur de bouton actif pour la gallerie
 - Clean la structure du JS (architecture POO)
 - Implémenter des images haute résolution pour les écrans Retina/4K (2X taille affichée)
+- Rendu les images responsives pour opti les perfs
+- Utiliser les balises `picture` et `srcset`
+- Clean le CSS et l'optimiser
+- Re minifier les fichier css et js
 
 ## Steps 📊
 
