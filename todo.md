@@ -6,7 +6,7 @@
 
 ## To-do ☑️
 
-- Générer les rapports finaux
+- Générer le rapport d'optimisation final
 - Préparer la soutenance
 
 ## Optional ❔
@@ -14,12 +14,6 @@
 ## In progress 🚧
 
 ## Since last commit 📝
-
-- Télécharger les nouveaux rapport lighthouse et gtmetrix
-- Télécharger la prévisualisation des cartes réseaux sociaux
-- Rajouter la prévisualisation des rich snippets
-- Vérifier le projet
-- Générer les audits finaux
 
 ## Done ✅
 
@@ -59,6 +53,11 @@
 - Valider le CSS avec le validator w3c
 - Vérifer l'accessibilité avec Wave
 - Vérifier et corriget le ratio pour les facebook et twitter cards
+- Télécharger les nouveaux rapport lighthouse et gtmetrix
+- Télécharger la prévisualisation des cartes réseaux sociaux
+- Rajouter la prévisualisation des rich snippets
+- Vérifier le projet
+- Générer les audits finaux
 
 ## Steps 📊
 
