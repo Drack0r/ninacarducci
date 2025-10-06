@@ -5,7 +5,16 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
+# Editor files
 .vscode/
+.idea/
 
-# TMP
+# Temporary files
 tmp/
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
