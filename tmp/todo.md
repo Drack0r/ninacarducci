@@ -6,12 +6,18 @@
 
 ## To-do ☑️
 
-- Générer le rapport d'optimisation final
-- Préparer la soutenance
+- Pourquoi ??
+- LCP
+- jQuery
+- Rich snippets
+- Contraste (Wave) = SEO ++
+- Aller direct sur le site plutot que la slide
 
 ## Optional ❔
 
 ## In progress 🚧
+
+- Contraste bullet points slider (Wave)
 
 ## Since last commit 📝
 
@@ -58,6 +64,8 @@
 - Rajouter la prévisualisation des rich snippets
 - Vérifier le projet
 - Générer les audits finaux
+- Générer le rapport d'optimisation final
+- Préparer la soutenance
 
 ## Steps 📊
 
@@ -67,4 +75,4 @@
 - [x] Step 4
 - [x] Step 5
 - [x] Step 6
-- [ ] Step 7
+- [x] Step 7

@@ -70,6 +70,18 @@ img {
   width: 20px;
 }
 
+/* ===== SLIDER ===== */
+.carousel-indicators button.active {
+  background-color: #dd6b20;
+}
+
+/* Navigation Arrows - Maximum de contraste */
+/* Navigation Arrows - Noir pour maximum de contraste */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(0) brightness(0.2);
+}
+
 /* ===== SECTIONS LAYOUT ===== */
 /* About Section */
 #about {
