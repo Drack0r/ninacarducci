@@ -75,4 +75,16 @@
 - [x] Vérification complète du projet
 - [x] Génération des audits finaux de performance, d'accessibilité et de SEO
 
+### Rich Snippets
+
+<img src="./rich-snippets/rich-snippets.png" alt="Rapport de test de résultats enrichis">
+
+### Wave
+
+<img src="./wave/WAVE-Report-of-Nina-Carducci.png" alt="Rapport de test d'accessibilité">
+
+### Lighthouse
+
+<img src="./lighthouse/PageSpeed-Insights.png" alt="Rapport Lighthouse">
+
 _Ce rapport présente l'ensemble des optimisations techniques mises en œuvre pour améliorer les performances, l'accessibilité et le référencement du site Nina Carducci._
